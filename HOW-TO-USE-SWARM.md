@@ -1,3 +1,8 @@
+YouTube 
+https://youtu.be/w_rQckFAnSc?is=stn-VLiRguLR983q
+
+
+
 # SWARM: How to use it
 
 SWARM turns a few small boards ("nodes") and your Android phone into one wardriving rig. Each node
